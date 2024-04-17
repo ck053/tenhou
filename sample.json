@@ -1,18 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "31":{"url":"https://github.com/ck053/tenhou/raw/main/riichi.wav"},
-    "32":{"url":"https://github.com/ck053/tenhou/raw/main/riichi.wav"},
-    "25":{"url":"https://github.com/ck053/tenhou/raw/main/pon.wav"},
     "26":{"url":"https://github.com/ck053/tenhou/raw/main/pon.wav"},
-    "27":{"url":"https://github.com/ck053/tenhou/raw/main/kan.wav"},
     "28":{"url":"https://github.com/ck053/tenhou/raw/main/kan.wav"},
-    "29":{"url":"https://github.com/ck053/tenhou/raw/main/chii.wav"},
     "30":{"url":"https://github.com/ck053/tenhou/raw/main/chii.wav"},
-    "33":{"url":"https://github.com/ck053/tenhou/raw/main/ron.wav"},
+    "32":{"url":"https://github.com/ck053/tenhou/raw/main/riichi.wav"},
     "34":{"url":"https://github.com/ck053/tenhou/raw/main/ron.wav"},
-    "35":{"url":"https://github.com/ck053/tenhou/raw/main/tumo.wav"},
-    "36":{"url":"https://github.com/ck053/tenhou/raw/main/tumo.wav"},
-    "40":{"url":"https://github.com/ck053/tenhou/raw/main/ex_start.wav"}
+    "36":{"url":"https://github.com/ck053/tenhou/raw/main/tumo.wav"}
   }
 }
