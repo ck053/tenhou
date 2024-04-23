@@ -1,19 +1,19 @@
 {
   "ver":1.0,
   "se":{
-    "1":{"url":"https://github.com/ck053/tenhou/raw/main/ex_finish.mp3"},
-    "25":{"url":"https://github.com/ck053/tenhou/raw/main/pon.mp3"},
-    "26":{"url":"https://github.com/ck053/tenhou/raw/main/pon.mp3"},
-    "27":{"url":"https://github.com/ck053/tenhou/raw/main/kan.mp3"},
-    "28":{"url":"https://github.com/ck053/tenhou/raw/main/kan.mp3"},
-    "29":{"url":"https://github.com/ck053/tenhou/raw/main/chii.mp3"},
-    "30":{"url":"https://github.com/ck053/tenhou/raw/main/chii.mp3"},
-    "31":{"url":"https://github.com/ck053/tenhou/raw/main/riichi.mp3"},
-    "32":{"url":"https://github.com/ck053/tenhou/raw/main/riichi.mp3"},
-    "33":{"url":"https://github.com/ck053/tenhou/raw/main/ron.mp3"},
-    "34":{"url":"https://github.com/ck053/tenhou/raw/main/ron.mp3"},
-    "35":{"url":"https://github.com/ck053/tenhou/raw/main/tumo.mp3"},
-    "36":{"url":"https://github.com/ck053/tenhou/raw/main/tumo.mp3"},
-    "40":{"url":"https://github.com/ck053/tenhou/raw/main/ex_start.mp3"}
+    "1":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ex_finish.wav"},
+    "25":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/pon.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/pon.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/kan.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/kan.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/chii.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/chii.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/riichi.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/riichi.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ron.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ron.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/tumo.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/tumo.wav"},
+    "40":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ex_start.wav"}
   }
 }
