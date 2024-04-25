@@ -1,7 +1,7 @@
 {
   "ver":1.0,
   "se":{
-    "1":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ex_finish.wav"},
+    "1":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ex_start.wav"},
     "25":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/pon.wav"},
     "26":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/pon.wav"},
     "27":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/kan.wav"},
@@ -13,7 +13,6 @@
     "33":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ron.wav"},
     "34":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ron.wav"},
     "35":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/tumo.wav"},
-    "36":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/tumo.wav"},
-    "40":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/ex_start.wav"}
+    "36":{"url":"https://raw.githubusercontent.com/ck053/tenhou/master/tumo.wav"}
   }
 }
